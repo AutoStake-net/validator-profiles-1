@@ -1,6 +1,7 @@
 
 | Moniker                 |                                                                             |                                                                                                           |
 | ----------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------|
+| AutoStake               | [Profile](./validators/terravaloper1f2t96sz9hnwsqnneux6v28xfgn07pkxjduvwjz) | [Station Page](https://station.terra.money/validator/terravaloper1f2t96sz9hnwsqnneux6v28xfgn07pkxjduvwjz) |
 | AuraStake               | [Profile](./validators/terravaloper1ulwqct0df2xuuaqzcq4yax3msdqgew6ehhcl7r) | [Station Page](https://station.terra.money/validator/terravaloper1ulwqct0df2xuuaqzcq4yax3msdqgew6ehhcl7r) |
 | WeStaking               | [Profile](./validators/terravaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvgk6d65) | [Station Page](https://station.terra.money/validator/terravaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvgk6d65) |
 | hashed                  | [Profile](./validators/terravaloper1p54hc4yy2ajg67j645dn73w3378j6k05vmx9r9) | [Station Page](https://station.terra.money/validator/terravaloper1p54hc4yy2ajg67j645dn73w3378j6k05vmx9r9) |
